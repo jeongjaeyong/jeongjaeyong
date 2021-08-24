@@ -29,7 +29,7 @@
     (1) GAN을 이용한 미로 생성 / Q러닝을 사용해서 풀수 있는 미로인지 확인
     (2) 시계열 데이터에 대한 유사도 Metric 정의
 3. 결과
-![KakaoTalk_20210825_012746970_01](https://user-images.githubusercontent.com/42512062/130654630-5915c747-fe5d-4307-a932-a41c1264d0a4.jpg)
+![maze](https://user-images.githubusercontent.com/42512062/130655136-11d4cc26-6756-4b94-9fba-8e59b201a32e.PNG)
 
 ### 미래연구소 서브튜터 활동 및 실습 프로젝트
 1. Task : 동영상에서 다음 내용을 예측하기

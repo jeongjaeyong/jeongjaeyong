@@ -40,6 +40,7 @@
 3. 실험 데이터 : 고속도로 CCTV 동영상
 4. 실험 결과 : 
 
+
 ### Toy Project(1)
 1. Task : NeuralNet의 Hidden layer에 Target을 지정해서 성능을 올려보자!
 2. 제안 방법 : Hidden layer가 역전파를 통해서 학습되는 것이 아니라, 차원축소(PCA/ICA)를 Target으로 지정해주자!

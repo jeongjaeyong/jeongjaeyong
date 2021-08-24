@@ -21,8 +21,18 @@
 
 4. 성과 : 학술대회(한국정보처리학회 2020 춘계학술대회 /  논문 제목 : 시차를 고려한 시계열 클러스터링 방법에 관한 연구)
 
-###
+### Toy Project(1)
+1. Task : NeuralNet의 Hidden layer에 Target을 지정해서 성능을 올려보자!
+2. 제안 방법 : Hidden layer가 역전파를 통해서 학습되는 것이 아니라, 차원축소(PCA/ICA)를 Target으로 지정해주자!
+3. 실험 데이터 출저: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+4. 실험 결과 : 
+
+### Toy Project(2)
+1. Task : Neural Net의 Hidden layer에 Target을 지정해주자
+2. 제안 방법 : Hidden layer가 역전파를 통해서 학습되는 것이 아니라, 차원축소(PCA/ICA)를 Target으로 지정해주자!
+3. 실험 결과 : 
+
 
 ## Awards
-  + ICT인턴십(업체명 : 벨류파인더스 / 프로젝트명 : 인공지능기반의 금융 솔루션)
+  + 
   + 2020 인공지능 문제해결 경진대회 입상(전안부 및 후안부 검사 결과를 이용한 시력교정술 가능여부 판단부분 3위)

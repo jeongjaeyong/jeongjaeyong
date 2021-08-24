@@ -24,11 +24,11 @@
 
 
 ### 졸업 작품
-1. Task : 인공지능을 적용한 게임
+1. Task : 인공지능을 적용한 미로 슈팅 게임
 2. 프로그램 내용 :
-    (1) 데이터 노이즈 지우기
+    (1) GAN을 이용한 미로 생성 / Q러닝을 사용해서 풀수 있는 미로인지 확인
     (2) 시계열 데이터에 대한 유사도 Metric 정의
-3. 실험 결과
+3. 결과
 
 
 ### 미래연구소 서브튜터 활동 및 실습 프로젝트
@@ -38,14 +38,14 @@
     (2) LSTM을 통한 다음 이미지 임베딩 예측
     (3) 이미지 임베딩 복원
 3. 실험 데이터 : 고속도로 CCTV 동영상
-4. 실험 결과 : 
+4. 결과 : https://drive.google.com/drive/folders/1c_PbJivmqw8qKFNtF0OkBIGCe6yRqni2?usp=sharing
 
 
 ### Toy Project(1)
 1. Task : NeuralNet의 Hidden layer에 Target을 지정해서 성능을 올려보자!
 2. 제안 방법 : Hidden layer가 역전파를 통해서 학습되는 것이 아니라, 차원축소(PCA/ICA)를 Target으로 지정해주자!
 3. 실험 데이터 출저: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-4. 실험 결과 : 
+4. 결과 : https://drive.google.com/drive/folders/1KB6ceRepAEmvT-F37iQA4FkmyT55Fkih?usp=sharing
 
  
 ## Awards

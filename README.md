@@ -17,8 +17,7 @@
     (2) 시계열 데이터에 대한 유사도 Metric 정의
 3. 실험 결과
 
-![denoise](https://user-images.githubusercontent.com/42512062/130620076-60d55314-e337-4c9e-a246-790f8ffdec7c.PNG)
-
+![denoise](https://user-images.githubusercontent.com/42512062/130621562-80458c74-b214-4041-a317-486750e23c2f.PNG)
 
 4. 학술대회(한국정보처리학회 2020 춘계학술대회 /  논문 제목 : 시차를 고려한 시계열 클러스터링 방법에 관한 연구)
 

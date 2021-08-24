@@ -12,6 +12,9 @@
 ## Projects
 ### ICT인턴십(업체명 : 벨류파인더스 / 프로젝트명 : 인공지능기반의 금융 솔루션)
 1. Task
+<div>
+<img width="300" height="150" src="https://github.com/jeongjaeyong/jeongjaeyong/issues/1#issue-978069498" > </img>  
+</div>
 
 2. 제안 방법
 

@@ -1,14 +1,25 @@
 # 정재용
 
-## About me
   + 인하대학교 data science lab  
 
 ## 학력
    + 인천대학교 / 컴퓨터공학과 (2020년 졸업)
    + 인하대학교 대학원 / 전기컴퓨터공학과 (2022 졸업 예정)
  
-## Blog
+## Social
   + https://eoehdvldk.tistory.com/
+  + github
+  + linkedin
+
+## Projects
+### ICT인턴십(업체명 : 벨류파인더스 / 프로젝트명 : 인공지능기반의 금융 솔루션)
+1. Task
+
+2. 제안 방법
+
+3. 실험 결과
+4. 
+
 
 ## projects
   + ICT인턴십(업체명 : 벨류파인더스 / 프로젝트명 : 인공지능기반의 금융 솔루션)

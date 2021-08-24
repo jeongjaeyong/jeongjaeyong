@@ -1,6 +1,6 @@
 # 정재용
 
-  + 인하대학교 data science lab  
+  + 인하대학교 Data Science Lab  
 
 ## 학력
    + 인천대학교 / 컴퓨터공학과 (2020년 졸업)

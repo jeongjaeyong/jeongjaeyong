@@ -10,9 +10,12 @@
   + https://eoehdvldk.tistory.com/
 
 ## 대회 및 Projects
-### 2020 인공지능 문제해결 경진대회 입상(전안부 및 후안부 검사 결과를 이용한 시력교정술 가능여부 판단부분 3위)
+### 2020 인공지능 문제해결 경진대회 
+입상(전안부 및 후안부 검사 결과를 이용한 시력교정술 가능여부 판단부분 3위)
   ![award](https://user-images.githubusercontent.com/42512062/130656010-f0016fd9-644c-4c98-8781-39b5a6652323.PNG)
-### Kaggle
+
+### (Kaggle)Jane Street Market Prediction
+순위 : 354/4245 (Top 9%) 
   
 ### ICT인턴십(업체명 : 벨류파인더스 / 프로젝트명 : 인공지능기반의 금융 솔루션)
 1. Task : 시계열 클러스터링

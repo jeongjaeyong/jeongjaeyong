@@ -12,6 +12,8 @@
 ## 대회 및 Projects
 ### 2020 인공지능 문제해결 경진대회 
 입상(전안부 및 후안부 검사 결과를 이용한 시력교정술 가능여부 판단부분 3위)
+
+
   ![award](https://user-images.githubusercontent.com/42512062/130656010-f0016fd9-644c-4c98-8781-39b5a6652323.PNG)
 
 ### (Kaggle)Jane Street Market Prediction
@@ -54,6 +56,4 @@
 3. 실험 데이터 출저: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 4. code : https://drive.google.com/drive/folders/1KB6ceRepAEmvT-F37iQA4FkmyT55Fkih?usp=sharing
 
- 
-## Awards
 

@@ -4,7 +4,7 @@
 
 ## 학력
    + 인천대학교 / 컴퓨터공학과 (2020년 졸업)
-   + 인하대학교 대학원 / 전기컴퓨터공학과 (2022 졸업 예정)
+   + 인하대학교 대학원 / 전기컴퓨터공학과 (재학)
  
 ## Social
   + https://eoehdvldk.tistory.com/
@@ -15,6 +15,9 @@
 
 
   ![award](https://user-images.githubusercontent.com/42512062/130656010-f0016fd9-644c-4c98-8781-39b5a6652323.PNG)
+
+### (데이콘 베이직)Iris 꽃받침 / 꽃잎 너비 예측 경진대회
+순위 : 1/433 
 
 ### (Kaggle)Jane Street Market Prediction
 순위 : 354/4245 (Top 9%) 
